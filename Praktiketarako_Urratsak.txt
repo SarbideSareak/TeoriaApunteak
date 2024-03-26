@@ -1,0 +1,22 @@
+Proiektua: Static
+Open web perspective -> Ez
+
+View -> Show view menua zabaldu (Uste dut beheko aukera dela)
+	GIT: Git Repositories + Git staging Zabaldu
+
+Behekaldean: GIT-eko repo pestainian: Clone
+	URL-a: Classroom-eko URL-a erabili
+	User: Username
+	Password: PAT-a erabili
+
+LOCAL DESTINATION sekzioan: (3. Pantaila)
+	IZENA ALDATU: origin -> P2_urrunekoa
+	Klikatu lo de "All eclipse options"
+	Browse -> home/1049442/Projects/Eclipse - AUKERATUTAKO WORKSPACE-EAN!
+
+Edit(??) -> Team -> Share project: Proiektua repoan sartzeko!
+
+Behekaldean berriz: Git staging pestainian:
+	-Add
+	-Commit
+	-Push

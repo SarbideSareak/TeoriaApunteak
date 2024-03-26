@@ -1,0 +1,17 @@
+TRADIZIONALA vs NGN + NGA
+
+-Sarearen nukleoa
+	Tradizionaletan: Garraio sarea + sare zehatzak
+	NGN: Paketeen kommutazioa (IP) internet bidez, orokorrean
+-Sare zehatzak
+	Tradizionaletan: Zerbitzu bakoitzak propioa + elkarren arteko lotura egiteko gateway garestiak
+	NGN: Ezer -> Dena IP da
+-Sarbide-sare eta nukleoaren arteko interfaze motak
+	Tradizionaletan: Asko, gateway espezifikoekin
+	NGN: Ezer -> Dena IP da (Mota bakarra)
+-Azpiegitura fisikoak eta baliabideak berrerabiltzea eta elkarbanatzea: NGN-n: Sinplea
+	Zerbitzu ezberdinen artean egin daiteke
+	Hornitzaileen arteko trafiko trukea
+-Hedapen kostuak
+	NGN: Askoz merkeago, eta arazo gutxiago (IP-ren propietateak: Datagrama beti helduko da, nahiz eta berandu) sortuko ditu.
+	     Horrez gain sare infraestruktura partekatu eta alokatu daiteke operadore anitzen artean.
